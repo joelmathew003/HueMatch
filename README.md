@@ -1,13 +1,8 @@
-# Expo Router Example
+# HueMatch
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+To run locally, download `expo go` app, run the following commands and scan the QR code from the app.
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
 ```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+npm i
+npm start
+```
